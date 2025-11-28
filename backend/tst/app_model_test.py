@@ -1,0 +1,1 @@
+# test the high level routes for the HTTP APIs, TBD on mocking and how to auto-setup test env (likely pytest) in vscode and auto-run tests in build/github
