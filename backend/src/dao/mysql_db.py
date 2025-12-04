@@ -1,1 +1,0 @@
-# define MySQL database object, should solve the problem of accessing the database, exposing a CRUD layer for database items
